@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Mahmoud</h1>
 <h3 align="center">I'm Frontend Developer</h3>
 <br/>
-- 🌱 I’m currently learning **NodeJs, Express, MongoDB**
+- 🌱 I’m currently learning <b>NodeJs</b>, <b>Express</b>, <b>MongoDB</b>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-1f538.web.app/](https://portfolio-1f538.web.app/)
 
