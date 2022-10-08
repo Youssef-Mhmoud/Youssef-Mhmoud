@@ -3,7 +3,7 @@
 <br/>
 - 🌱 I’m currently learning <b>NodeJs</b>, <b>Express</b>, <b>MongoDB</b>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-1f538.web.app/](https://portfolio-1f538.web.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-1f538.web.app/)
 
 - 📫 How to reach me **y.mahmoud.ahmd@gmail.com**
 
@@ -27,9 +27,3 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef-mhmoud&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="youssef-mhmoud" /></p>
 
-
-<style>
-  a {
-  margin-left: 20px;
-  }
-</style>
