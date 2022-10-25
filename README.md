@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/youssef-mahmoud-508143239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/youssef-mahmoud-508143239/" height="30" width="40" /></a>
 </p>
 
-
+<table><tr><td valign="top" width="33%">
 <h2 align="center">Front-End Tools & Languages</h2>
 
 
@@ -44,7 +44,7 @@
 </div>
 
 
-
+</td><td valign="top" width="33%">
 
 
 <h3 align="left">Technologies and Tools:</h3>
@@ -57,7 +57,7 @@
 
 
 
-
+</td></tr></table>  
 <br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-mhmoud&theme=tokyonight" alt="youssef-mhmoud" /></p>
 
