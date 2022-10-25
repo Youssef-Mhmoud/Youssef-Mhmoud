@@ -13,7 +13,7 @@
 </p>
 
 <table><tr><td valign="top" width="33%">
-<h2 align="center">Front-End Tools & Languages</h2>
+<h2 align="center">Front-End</h2>
 
 
 <div align="center">
@@ -32,7 +32,7 @@
 
 </td><td valign="top" width="33%">
   
-<h2 align="center">Back-End Tools & Languages</h2>
+<h2 align="center">Back-End</h2>
 
 
 <div align="center">
