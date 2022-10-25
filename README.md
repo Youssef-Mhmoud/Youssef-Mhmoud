@@ -14,8 +14,8 @@
 
 <div style="display: flex; flex-direction: row;">
 
-    <div valign="top">Helllow</div>
-    <div valign="top">Frontand back</div>
+    <div align="top">Helllow</div>
+    <div align="top">Frontand back</div>
 
 </div>
 
