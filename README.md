@@ -31,7 +31,7 @@
 </span>
 
 
-<span align="left">Back-End Tools & Languages</span>
+<span align="right">Back-End Tools & Languages</span>
 
 
 <span align="right">
