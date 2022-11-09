@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Youssef Mahmoud</h1>
 <h3 align="center">I'm Frontend Developer</h3>
 <br/>
-- 🌱 I’m currently learning  <b>Postgres</b>
 
 - 👨‍💻 All of my projects are available at [My Website Portfolio](https://portfolio-1f538.web.app/)
 
