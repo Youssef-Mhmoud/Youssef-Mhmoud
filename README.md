@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="30" width="50"/>, I'm Youssef Mahmoud</h1>
+<h1 align="center">Hi <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="50" width="50"/>, I'm Youssef Mahmoud</h1>
 <h3 align="center">I'm Frontend Developer</h3>
 <br/>
 
