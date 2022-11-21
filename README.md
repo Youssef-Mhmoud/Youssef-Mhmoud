@@ -1,6 +1,5 @@
 <h1 align="center">Hi <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="40" width="40"/>, I'm Youssef Mahmoud</h1>
 <h3 align="center">I'm Frontend Developer</h3>
-<img src="[https://www.canva.com/design/DAFSkzjb19k/kAwp3zP12VmtgWuXUjNnQA/watch?utm_content=DAFSkzjb19k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFSkzjb19k/kAwp3zP12VmtgWuXUjNnQA/watch?utm_content=DAFSkzjb19k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)" width="30" height="40"/>
 <br/>
 
 - 👨‍💻 All of my projects are available at [My Website Portfolio](https://portfolio-1f538.web.app/)
