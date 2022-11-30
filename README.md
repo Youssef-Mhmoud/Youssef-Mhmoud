@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="40" width="40"/>, I'm Youssef Mahmoud</h1>
 <h3 align="center">I'm a Fullstack Developer</h3>
 <br/>
-<img src="https://user-images.githubusercontent.com/100860879/204906383-faf615d8-6b9a-4ed1-a2c5-5d0a2cffaced.gif" width="500" height="100"/>
 
 - 👨‍💻 All of my projects are available at [My Website Portfolio](https://portfolio-1f538.web.app/)
 
