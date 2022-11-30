@@ -3,9 +3,6 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/100860879/204906383-faf615d8-6b9a-4ed1-a2c5-5d0a2cffaced.gif" width="100" height="50"/>
 
-![I'm full-stack developer](https://user-images.githubusercontent.com/100860879/204906383-faf615d8-6b9a-4ed1-a2c5-5d0a2cffaced.gif)
-
-
 - 👨‍💻 All of my projects are available at [My Website Portfolio](https://portfolio-1f538.web.app/)
 
 - 📫 How to reach me **y.mahmoud.ahmd@gmail.com**
