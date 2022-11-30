@@ -1,9 +1,10 @@
 <h1 align="center">Hi <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="40" width="40"/>, I'm Youssef Mahmoud</h1>
 <h3 align="center">I'm a Fullstack Developer</h3>
 <br/>
-<img src="[https://user-images.githubusercontent.com/100860879/204905603-e07b3d5f-7a8f-497a-a510-ce59ee5a02ac.gif](https://user-images.githubusercontent.com/100860879/204906129-ffaef44e-1c4a-4b90-bc5a-eb264980cf48.gif)"/>
+<img src="https://user-images.githubusercontent.com/100860879/204906383-faf615d8-6b9a-4ed1-a2c5-5d0a2cffaced.gif" width="100" height="50"/>
 
-![I'm full-stack developer](https://user-images.githubusercontent.com/100860879/204906129-ffaef44e-1c4a-4b90-bc5a-eb264980cf48.gif)
+![I'm full-stack developer](https://user-images.githubusercontent.com/100860879/204906383-faf615d8-6b9a-4ed1-a2c5-5d0a2cffaced.gif)
+
 
 - 👨‍💻 All of my projects are available at [My Website Portfolio](https://portfolio-1f538.web.app/)
 
