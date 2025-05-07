@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [My Website Portfolio](https://personal-portfolio-youssef.vercel.app/)
 
-- 📫 How to reach me **y.mahmoud.ahmd@gmail.com**
+- 📫 How to reach me **y.mahmod.ahmed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
