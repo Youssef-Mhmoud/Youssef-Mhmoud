@@ -1,5 +1,11 @@
 <h1 align="center">Hi <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="40" width="40"/>, I'm Youssef Mahmoud</h1>
-<h3 align="center">I'm a Fullstack Developer</h3>
+<h3 align="center">Frontend Developer specialized in React & Modern Web UI</h3>
+<br/>
+
+<p align="center">
+  Passionate about building responsive and user-friendly web interfaces using <strong>React, Tailwind CSS, and modern JavaScript</strong>.  
+  I also have a solid background in backend development with <strong>Node.js, Express, and PostgreSQL</strong>.
+</p>
 <br/>
 
 - 👨‍💻 All of my projects are available at [My Website Portfolio](https://personal-portfolio-youssef.vercel.app/)
