@@ -58,7 +58,7 @@
 
 </td><td valign="top" width="33%">
   
-<h2 align="center">Back-End</h2>
+<h2 align="center">Back-End (Working Knowledge)</h2>
 
 
 <div align="center">
